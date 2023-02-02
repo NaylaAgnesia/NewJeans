@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewJeans</string>
+    <string name="content_text">New Jeans adalah girl group yang beranggotakan 5 orang. Grup ini baru debut pada 22 Juli 2022 dengan single utama Attention.
+Setelah itu, mereka merilis mini album debut dengan judul New Jeans di 1 Agustus 2022. Sesaat setelah debut, lagu-lagu mereka sudah mendapat banyak sorotan hingga menduduki tangga lagu musik di Korea Selatan.
+Nah, grup ini berasal dari independent label ADOR di bawah naungan HYBE</string>
+    <string name="new_jeans">New Jeans</string>
+    <string name="minjibio">Nama panggung: Minji (민지) \nTanggal lahir: 7 Mei 2004 \nZodiak: Taurus \nShio: Monyet \nTingi badan: 169 cm (5’6”) \nMBTI: ESTJ-T \nKebangsaan: Korea</string>
+    <string name="hanni">Phạm Ngọc Hân/Hanni Pham</string>
+    <string name="hannibio">Nama panggung: Hanni (하니) \nTanggal lahir: 6 Oktober 2004 \nZodiak: Libra \nShio: Monyet \nTingi badan: 161.7 cm (5’3”) \nMBTI: INFP \nKebangsaan: Vietnam-Australia</string>
+    <string name="minji">Kim Minji (김민지)</string>
+    <string name="danielle">Danielle Marsh / Mo Jihye (모지혜)</string>
+    <string name="daniellebio">Nama panggung: Danielle (다니엘) \nTanggal lahir: 11 April 2005 \nZodiak: Aries \nShio: Ayam \nTingi badan: 165 cm (5’5″) \nMBTI: ENFP \nKebangsaan: Korea-Australia</string>
+    <string name="haerin">Kang Haerin (강해린)</string>
+    <string name="haerinbio">Nama panggung: Haerin (해린) \nTanggal lahir: 15 Mei 2006 \nZodiak: Taurus \nShio: Anjing \nTingi badan: 164.5 cm (5’5”) \nMBTI: ISTP \nKebangsaan: Korea</string>
+    <string name="hyein">Lee Hyein (이혜인)</string>
+    <string name="hyeinbio">Nama panggung: Hyein (혜인) \nName Chinese: Li Huiren (李惠仁) \nNama Inggris: Garce Lee \nTanggal lahir: 21 April 2008 \nZodiak: Taurus \nShio: Tikus \nTingi badan: 170 cm (5’7″)
+        \nMBTI: INFP \nKebangsaan: Korea</string>
+    <string name="ent">Hybe Labels</string>
+    <string name="close">Tutup</string>
+</resources>
